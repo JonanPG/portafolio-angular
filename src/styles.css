@@ -1,3 +1,11 @@
+/* Loading */
+svg path,
+svg rect{
+  fill: black;
+}
+
+
+/* Animation */
 .animated {
     -webkit-animation-duration: 0.7s;
     animation-duration: 0.7s;
